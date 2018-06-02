@@ -10,3 +10,10 @@ function whileLoop(n){
     console.log(--n)
   } return 'done'
 }
+
+function maybeTrue(array){
+  
+}
+function doWhileLoop(array){
+  
+}
